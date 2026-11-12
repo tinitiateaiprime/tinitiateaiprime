@@ -24,4 +24,4 @@ Learn together, contribute to projects, build your portfolio, and prepare for IT
 📧 Email: contact@tinitiateai.com
 📞 Phone: +91 6309123485
 
-Tinitiate AI Solutions — Learn Today. Build Tomorrow.  where should i put this
+Tinitiate AI Solutions — Learn Today. Build Tomorrow.
