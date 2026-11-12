@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![TINITIATE Logo](./tinitiate_ai_logo.png)
+  ![TINITIATE Logo](./tinitiate_ai_logo_bg.png)
 
   <br />
 
